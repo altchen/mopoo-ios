@@ -13,5 +13,5 @@ Installation
 
 Contributors
 -----------
-@刷新
-@龙骑兵
+- 刷新
+- 龙骑兵
